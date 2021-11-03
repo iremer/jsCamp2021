@@ -102,6 +102,8 @@ console.log(newProductName)
 console.log(newUnitPrice)
 console.log(newQuantity)
 
+console.log("");
+
 /*login({title}){
     console.log("<h1>"+title+"</h1>")
 }*/
